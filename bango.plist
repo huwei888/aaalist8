@@ -9,7 +9,7 @@
 			<array>
 				<dict>
 					<key>kind</key>
-					<string>software-package</string>
+					<string>com.telnet.sllm</string>
 					<key>url</key>
 					<string>http://www.wowos.cn/bangou.ipa</string>
 				</dict>
